@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #6481c0;
+        }
+        header {
+            background: hsl(0, 0%, 100%);
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        article {
+            background: #fff;
+            padding: 2rem;
+            margin: 2rem 0;
+            border-radius: 8px;
+        }
+        h1, h2 {
+            color: #000000;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>HOJA DE RUTA TECNOLÓGICA</h1>
+        <h1> Clase 21 de agosto del 2024</h1>
+        
+    </header>
+
+    <div class="container">
+        <article id="HOJA DE RUTA TECNOLÓGICA">
+            <h2>¿Qué contiene una hoja de ruta tecnológica?</h2>
+            <p>
+                Visión a futuro: Define la visión tecnológica a largo plazo de la empresa, es decir, hacia dónde quiere llegar en términos de tecnologia.
+
+                Objetivos específicos: Establece metas concretas y medibles relacionadas con la tecnologia, como la implementación de nuevas herramientas, ta mejora de la eficiencia o la reducción de costos.
+                Estrategias: Describe las estrategias que se utilizarán para alcanzar los objetivos, como la adquisición de nuevas tecnologias, la capacitación del personal o la colaboración con socios externos.
+                Proyectos: Detalla los proyectos específicos que se llevarán a cabo, Incluyendo sus plazos, responsables y recursos necesarios.
+                Indicadores de desempeño: Define los indicadores que se utilizarán para medir el progreso y el éxito de la hoja de ruta.
+            </p>
+        </article>
+
+        <article id="IMPORTACIA DE LA TECNOLOGÍA EN LOS NEGOCIOS">
+            <h2>¿Cuál es la importancia de la tecnologia en los negocios?</h2>
+            <p>
+                Eficiencia y productividad: Automatiza tareas, optimiza procesos y reduce costos, permitendo a las empresas ser más eficientes y productivas. Innovación: Fomenta la creación de nuevos productos y servicios, brindando a las empresas una ventaja competitiva y la capacidad de adaptarse a las demandas del mercado
+                -Relación con el cliente: Facilita la interacción con los clientes, personaliza la experiencia y mejora la satisfacción, fomentando la lealtad Acceso a nuevos mercados: Permle a las empresas llegar a nuevos mercados y
+                expandir sus operaciones a nivel global. Toma de decisiones: Proporciona datos e información vallosa para tomar decisiones más Informadas y estratégicas.
+                Agilidad: Permite a las empresas adaptarse rápidamente a los cambios del mercado y a las nuevas tendencias -Competitividad: Es un factor clave para mantenerse competitivo en un entomo empresarial cada vez más digital
+            </p>
+        </article>
+
+      
+            <h1>DEFINICION DE GESTION DE TECNOLOGÍA</h1>
+            <h1> Clase 03 de SEPTIEMBRE del 2024</h1>
+            <article id="INTRODUCCION">
+                <h2>INTRODUCCION</h2>
+                <p>
+                    La gestión de tecnología se refiere a la planificación, desarrollo, implementación, y control de los recursos tecnológicos dentro de una organización. Su objetivo es alinear 
+                    la tecnología con las metas estratégicas de la empresa para mejorar su eficiencia, efectividad e innovación, este tema abarca varias definiciones como se nombraran a continuacion.
+                
+                    <br>°Planificación Estratégica: Definir cómo la tecnología puede apoyar los objetivos y estrategias generales de la organización. Esto incluye la evaluación de las necesidades tecnológicas futuras y la creación de un plan para satisfacerlas.
+    
+                    <br>°Desarrollo y Adquisición: Identificar, desarrollar o adquirir tecnologías adecuadas para la empresa. Esto puede involucrar la compra de software y hardware, así como el desarrollo de soluciones tecnológicas internas.
+                    
+                    <br>°Implementación: Desplegar y poner en funcionamiento las tecnologías dentro de la organización. Esto incluye la integración de nuevas tecnologías con sistemas existentes y asegurar que se utilicen correctamente.
+                    
+                    <br>°Operación y Mantenimiento: Supervisar el funcionamiento diario de las tecnologías, solucionar problemas y mantener el hardware y software para garantizar que funcionen de manera eficiente y segura.
+                    
+                    <br>°Evaluación y Mejora Continua: Evaluar el rendimiento de las tecnologías y su impacto en la organización, así como identificar oportunidades para mejoras y actualizaciones.
+                    
+                    <br>°Gestión de Proyectos: Administrar proyectos tecnológicos, asegurando que se completen a tiempo, dentro del presupuesto y cumpliendo los requisitos establecidos.
+                    
+                    <br>°Seguridad de la Información: Proteger los datos y sistemas tecnológicos de amenazas y ataques, garantizando la confidencialidad, integridad y disponibilidad de la información.
+                    
+                    <br>°Capacitación y Soporte: Formar a los empleados en el uso de nuevas tecnologías y proporcionar soporte técnico para resolver problemas.   
+                </p>
+            </article>
+
+        <article id="CLASES DE TECNOLOGIA">
+            <h2>CLASES DE TEECNOLOGIA</h2>
+            <p>
+                <br>°Tecnologia tipo fija: Este tipo de tecnología se caracteriza por no ser reutilizable. Esto significa que no puede usarse para ningún otro propósito que para la que se creó en un inicio. Por eso se llama tecnología fija, porque nunca cambia de forma. Un ejemplo, para que sea más fácil de entender podría ser las herramientas de construcción. 
+                <br>°Tecnologia tipo flexible: La tecnología flexible se trata de uno de los tipos que forma parte de nuestra vida cotidiana. Se trata de tecnología que puede utilizarse de manera multidisciplinar. Un ejemplo de este tipo de tecnología son las cámaras de fotografías.
+                <br>°Tecnologia tipo dura: La tecnología dura consiste en la producción o creación de productos tangibles. Engloba todos los conocimientos técnicos para generar objetos, como máquinas y materiales que podemos tocar. Un ejemplo sería un ordenador o una televisión.
+                <br>°Tecnologia tipo blanda: Si en el caso anterior nos referimos a productos tangibles, la tecnología blanda es todo lo contrario. Este tipo de tecnología engloba todos los conocimientos, conceptos, métodos que se llevarán a cabo para la producción de los materiales, herramientas o utensilios (tecnología dura). Un ejemplo de tecnología blanda sería cualquier tipo de software.
+                
+                <h2>AVANCES O EVOLUCION DE LA TECNOLOGIA</h2>
+                La evolución de la tecnología en la actualidad ha sido increíblemente rápida y diversa.
+                <br>°nteligencia Artificial (IA) y Aprendizaje Automático: La IA ha avanzado significativamente, con modelos como GPT-4 y sus sucesores demostrando capacidades avanzadas en procesamiento del lenguaje natural, generación de texto, y más.
+                <br>°5G y Redes de Próxima Generación: La tecnología 5G está expandiéndose, ofreciendo velocidades de internet mucho más rápidas, menor latencia y la capacidad de conectar una gran cantidad de dispositivos simultáneamente. 
+                <br>°Tecnologías de Energía Sostenible: Las innovaciones en energía renovable, como la solar y la eólica, y en almacenamiento de energía, como las baterías de estado sólido, están acelerando la transición hacia fuentes de energía más sostenibles y eficientes.
+                <br>°Robótica y Automatización: La robótica y la automatización están avanzando en sectores como la manufactura, la logística y el hogar.
+                <br>°Blockchain y Criptomonedas: La tecnología blockchain continúa evolucionando más allá de las criptomonedas, con aplicaciones en contratos inteligentes, gestión de cadenas de suministro y seguridad de datos.
+        </p>
+    </article>
+        
+
+    <footer>
+        <p>By Mishell Fernandez</p>
+    </footer>
+</body>
+</html>
