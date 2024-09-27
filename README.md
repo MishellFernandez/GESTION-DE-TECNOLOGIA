@@ -1,2 +1,2 @@
 #Gestion Tecnologias
-[aqui](GESTION20%DE20%TECNOLOGIA/index.html)
+[aqui](GESTION%20DE%20TECNOLOGIA/index.html)
